@@ -1,0 +1,11 @@
+.container{
+    width: 100%;
+    padding: 30px;
+    height: 100%;
+    background-color: aliceblue;
+    color: black;
+}
+h1 {
+    color: rgb(211, 97, 116);
+    text-align: center;
+}

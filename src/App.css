@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+button {
+  padding: 12px 14px;
+  margin: 20px;
+  border: none;
+  box-shadow: 3px 4px 14px rgba(0, 0, 0, 0.3);
+  cursor: pointer;
+ color: whitesmoke;
+ font-weight: bold;
+}
+
+.btnMount {
+  background-color: rgb(136, 136, 219);
+}
+.btnUnMount {
+  background-color: orange;
+}
